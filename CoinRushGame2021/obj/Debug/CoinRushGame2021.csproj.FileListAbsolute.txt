@@ -1,0 +1,10 @@
+C:\Users\Simanye Buhle Magwa\Documents\Projects_2021Dec\CoinRushGame2021\bin\Debug\CoinRushGame2021.exe.config
+C:\Users\Simanye Buhle Magwa\Documents\Projects_2021Dec\CoinRushGame2021\bin\Debug\CoinRushGame2021.exe
+C:\Users\Simanye Buhle Magwa\Documents\Projects_2021Dec\CoinRushGame2021\bin\Debug\CoinRushGame2021.pdb
+C:\Users\Simanye Buhle Magwa\Documents\Projects_2021Dec\CoinRushGame2021\obj\Debug\CoinRushGame2021.csproj.AssemblyReference.cache
+C:\Users\Simanye Buhle Magwa\Documents\Projects_2021Dec\CoinRushGame2021\obj\Debug\CoinRushGame2021.Form1.resources
+C:\Users\Simanye Buhle Magwa\Documents\Projects_2021Dec\CoinRushGame2021\obj\Debug\CoinRushGame2021.Properties.Resources.resources
+C:\Users\Simanye Buhle Magwa\Documents\Projects_2021Dec\CoinRushGame2021\obj\Debug\CoinRushGame2021.csproj.GenerateResource.cache
+C:\Users\Simanye Buhle Magwa\Documents\Projects_2021Dec\CoinRushGame2021\obj\Debug\CoinRushGame2021.csproj.CoreCompileInputs.cache
+C:\Users\Simanye Buhle Magwa\Documents\Projects_2021Dec\CoinRushGame2021\obj\Debug\CoinRushGame2021.exe
+C:\Users\Simanye Buhle Magwa\Documents\Projects_2021Dec\CoinRushGame2021\obj\Debug\CoinRushGame2021.pdb
